@@ -12,6 +12,24 @@
         "UpdateSourceArgs":"{{$FullBaseDir}}data"
     },
     {
+        "UpdateStageName":"Data Directory Creation",
+        "UpdateSourcePlatform":"All",
+        "UpdateSource":"CreateDirectory",
+        "UpdateSourceArgs":"{{$FullBaseDir}}data/Data/shared_content"
+    },
+    {
+        "UpdateStageName":"Data Directory Creation",
+        "UpdateSourcePlatform":"All",
+        "UpdateSource":"CreateDirectory",
+        "UpdateSourceArgs":"{{$FullBaseDir}}data/Data/shared_content/global"
+    },
+    {
+        "UpdateStageName":"Data Directory Creation",
+        "UpdateSourcePlatform":"All",
+        "UpdateSource":"CreateDirectory",
+        "UpdateSourceArgs":"{{$FullBaseDir}}data/Data/shared_content/user"
+    },
+    {
         "UpdateStageName":"Server Download",
         "UpdateSourcePlatform":"All",
         "UpdateSource":"FetchURL",

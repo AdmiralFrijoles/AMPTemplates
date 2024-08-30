@@ -52,7 +52,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"upnp",
         "IncludeInCommandLine":false,
-        "DefaultValue":"false",
+        "DefaultValue":"true",
         "EnumValues":{
             "False":"false",
             "True":"true"
