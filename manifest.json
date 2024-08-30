@@ -1,9 +1,9 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
+	"id": "f5b7fd2f-c978-458e-b0f8-edbecaecf08b",
+	"authors": ["CubeCoders Limited", "AMP Community", "Admiral Frijoles"],
+	"origin": "https://github.dev/AdmiralFrijoles/AMPTemplates.git",
+	"url": "https://github.dev/AdmiralFrijoles/AMPTemplates",
 	"imagefile": "",
-	"prefix": "",
+	"prefix": "admiral_frjioles",
 	"repotype": "AppTemplates"
 }
